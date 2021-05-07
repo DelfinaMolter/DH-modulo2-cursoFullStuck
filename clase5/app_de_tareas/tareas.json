@@ -1,0 +1,16 @@
+[{
+"titulo": "lavar los platos",
+"estado": "terminada"
+},
+{
+"titulo": "lavar la ropa",
+"estado": "terminada"
+},
+{
+"titulo": "pasear al perro",
+"estado": "progreso "
+},
+{
+"titulo": "cocinar",
+"estado": "pendiente"
+}]
